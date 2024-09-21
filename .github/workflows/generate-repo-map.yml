@@ -78,10 +78,18 @@ jobs:
       - name: Update README with Repository Map
         run: |
           # Escape special characters in the repo_map.md content to be used in sed
-          repo_map_content=$(cat repo_map.md | sed 's/[&/\]/\\&/g')
+          repo_map_content=$(<repo_map.md sed 's/[&/\]/\\&/g')
+
+          # Create a temporary file to hold the new content
+          echo "<!-- REPO_MAP_START -->" > temp_repo_map.md
+          echo "$repo_map_content" >> temp_repo_map.md
+          echo "<!-- REPO_MAP_END -->" >> temp_repo_map.md
 
           # Use sed to replace the content between <!-- REPO_MAP_START --> and <!-- REPO_MAP_END -->
-          sed -i '/<!-- REPO_MAP_START -->/,/<!-- REPO_MAP_END -->/c\<!-- REPO_MAP_START -->\n'"$repo_map_content"'\n<!-- REPO_MAP_END -->' README.md
+          sed -i.bak -e '/<!-- REPO_MAP_START -->/,/<!-- REPO_MAP_END -->/d' README.md
+          cat temp_repo_map.md >> README.md
+          rm temp_repo_map.md  # Clean up the temporary file
+
           
       - name: Commit changes to README
         run: |
