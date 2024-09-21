@@ -77,8 +77,12 @@ jobs:
 
       - name: Update README with Repository Map
         run: |
-          sed -i '/<!-- REPO_MAP_START -->/,/<!-- REPO_MAP_END -->/c\<!-- REPO_MAP_START -->\n'"$(cat repo_map.md)"'\n<!-- REPO_MAP_END -->' README.md
+          # Escape special characters in the repo_map.md content to be used in sed
+          repo_map_content=$(cat repo_map.md | sed 's/[&/\]/\\&/g')
 
+          # Use sed to replace the content between <!-- REPO_MAP_START --> and <!-- REPO_MAP_END -->
+          sed -i '/<!-- REPO_MAP_START -->/,/<!-- REPO_MAP_END -->/c\<!-- REPO_MAP_START -->\n'"$repo_map_content"'\n<!-- REPO_MAP_END -->' README.md
+          
       - name: Commit changes to README
         run: |
           git config --local user.email "actions@github.com"
