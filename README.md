@@ -43,7 +43,7 @@ const harshit = {
 };
 ```
 -->
-# [![ARCH LINUX](https://skillicons.dev/icons?i=arch)](https://archlinux.org/) Harshit this side 👋🏻 !
+# [![ARCH LINUX](https://skillicons.dev/icons?i=arch)](https://archlinux.org/) Harshit this side 👋🏻
 
 Welcome to my GitHub universe! I'm passionate about coding, innovation, and continuous learning. Here's a glimpse into my world:
 
