@@ -1,99 +1,102 @@
-<!--
-## Hello, Harshit This Side 👋
+<!-- Centered header with a clean, sleek vibe -->
+<div align="center">
 
-**Coder-Harshit/Coder-Harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Harshit 👋  
+Linux-first • Systems tinkerer • DevOps mindset
 
-Here are some ideas to get you started:
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge&logo=logitech&logoColor=white)](#-open-to-opportunities)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-vijay-coderv/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-6b7280?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_rNrb1L16tKkAkgb_x4BTeNLNqbtQGh9/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-  funFact: "Even AI needs to learn, so why to stop experimenting ? why not make it enjoyable!"
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open+Source+Enthusiast;Python+Developer;AI+%26+ML+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
-</p>
+I’m a student obsessed with how systems work under the hood. I break things on purpose, fix them, and document the lessons. Currently designing RefleXSys (a phased research + engineering project) and iterating on OSpect, a system introspection tool.
 
-
-```javascript
-const harshit = {
-  code: ["JavaScript", "Python", "C", "C++", "Java"],
-  askMeAbout: ["web dev", "tech", "app dev", "AI", "ML"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "Bootstrap"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      python: ["Django", "Flask"]
-    },
-    databases: ["MongoDB", "MySQL"],
-    misc: ["Firebase", "Socket.IO", "GraphQL", "Redux"]
-  },
-  currentFocus: "Building Scalable Web Applications and Exploring AI/ML",
-  funFact: "Experimentation can give u the headache but also the joy of life ... so lets try one more thing"
-};
-```
--->
-# [![ARCH LINUX](https://skillicons.dev/icons?i=arch)](https://archlinux.org/) Harshit this side 👋🏻
-
-Welcome to my GitHub universe! I'm passionate about coding, innovation, and continuous learning. Here's a glimpse into my world:
-
-## 🛠️ ToolKit
-
-### COMPUTER LANGUAGES
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
-![C](https://skillicons.dev/icons?i=c)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-[![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-
-<!-- [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) -->
-<!-- ![JavaScript](https://skillicons.dev/icons?i=js) -->
-
-### FRAMEWORKS & LIBRARIES
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-[![BootStrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-<!-- [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com) -->
-<!-- [![React](https://skillicons.dev/icons?i=react)](https://www.react.dev/) -->
-<!-- [![NextJS](https://skillicons.dev/icons?i=react)](https://nextjs.org/) -->
-
-### TOOLS
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
-### OPERATING SYSTEMS
-![Linux](https://skillicons.dev/icons?i=linux)
-![Windows](https://skillicons.dev/icons?i=windows)
-![MacOS](https://skillicons.dev/icons?i=apple)
-
-## 🌟 Featured Projects
-
-### [OSpect](https://github.com/Coder-Harshit/ospect)
-A high-performance versatile cross-platform system diagnostics and insights tool written in Rust, designed for detailed exploration of operating system configurations, hardware components, and network status.
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshit-vijay-coderv/) &emsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:harshitvj07@gmail.com) &emsp;
-
+- 🐧 Focus: Linux, OS internals, observability, reliability, tooling
+- 🧪 Edge: Fearless experimentation → faster learning loops
+- 🔁 Loop I love: Break → Debug → Fix → Document → Share
 
 ---
 
-Thanks for visiting my spacetime! Feel free to explore various planets and send me pings. Let's dwell something amazing together! 🚀
+## What I’m exploring
+- Systems: process introspection, observability pipelines, filesystems, performance
+- DevOps: reproducible setups, CI/CD, containers, minimal base images, automation
+- Research: clear abstraction boundaries and pragmatic system design
+
+---
+
+## Featured work
+- **OSpect** — system introspection tool
+  - _Why_: system resource extractor (alt. Neofetch)
+  - _Status_: currently on hold unless EUREKA! ⏳
+  - _Repo_: https://github.com/Coder-Harshit/OSpect
+
+- **RefleXSys** — phased research + engineering project
+  - _Scope_: architecture, experimentation tracks, reflection cycles
+  - _Repo_: https://github.com/Coder-Harshit/RefleXSys
+  - _Status_: Active Development ⚠️
+
+- **BLOGS** — notes, logs, write-ups, and post-mortems
+  - _Repo_: https://github.com/Coder-Harshit/BLOGS
+
+---
+
+## How I work
+- 📓 Keep learning logs and post-mortems (even for tiny breakages)
+- 🧰 Prefer simple, composable tools; automate when it hurts twice
+- 🔎 Biased toward fundamentals over frameworks; measure and reflect
+- 🔧 Lives in the terminal
+
+---
+
+## Skills at a glance
+- Systems & Linux: introspection, debugging, observability, reliability
+- DevOps mindset: reproducibility, CI/CD, containerization, scripting
+- Always learning: kernels, packaging, sandboxing, build systems
+
+<!-- Curated, signal tools. Swap or extend as you like. -->
+<div align="left">
+
+**Core tools I reach for**
+- Linux • Shell (bash/zsh) • Git
+- Virtual Machines (Qemu/VirtualBox) • Containers (Docker) • GitHub Actions
+- Python • C/C++
+
+<details>
+<summary><strong>Full toolbox (click to expand)</strong></summary>
+
+- Linux, Bash/Zsh, Git
+- Docker, minimal images  
+- GitHub Actions (CI/CD)
+- Python, C/C++, scripting for tooling/automation  
+- Editors/IDE: Vim, VS Code, Zed  
+- Reproducible environments, dotfiles, minimal setups
+
+</details>
+</div>
+
+---
+
+## Open to Opportunities
+I’m actively seeking roles/internships in:
+- Systems/Platform Engineering
+- DevOps/SRE
+- Tooling and Developer Experience
+
+If you’re building lean, reliable systems and love people who learn by doing, let’s talk.
+
+---
+
+## Connect
+- LinkedIn: [Harshit Vijay](https://www.linkedin.com/in/harshit-vijay-coderv/)
+- Mail: [Harshitvj07](mailto:harshitvj07@gmail.com)
+- Resume: [Google Drive Link](https://drive.google.com/file/d/1_rNrb1L16tKkAkgb_x4BTeNLNqbtQGh9/view?usp=sharing)
+
+<!-- Optional: tasteful stats. Remove if you prefer ultra-minimal. -->
+<details>
+<summary><strong>Stats</strong> (click to expand)</summary>
+
+<img src="https://streak-stats.demolab.com?user=Coder-Harshit&theme=transparent" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Harshit&layout=donut&theme=transparent&hide_title=true" alt="Top Langs" />
+
+</details>
