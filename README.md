@@ -6,7 +6,7 @@ Linux-first • Systems tinkerer • DevOps mindset
 
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge&logo=logitech&logoColor=white)](#-open-to-opportunities)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-vijay-coderv/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-6b7280?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_rNrb1L16tKkAkgb_x4BTeNLNqbtQGh9/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-6b7280?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1h1h5DfOiwMj3UQBfxNhYDDXcuNko09Vu/view?usp=drivesdk)
 
 </div>
 
