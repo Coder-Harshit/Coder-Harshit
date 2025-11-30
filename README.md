@@ -6,5 +6,5 @@
 - Open to Work in domain including, but not limited to, **Systems Engineering**, **DevOps**, and **SRE**.
 
 ### Works
-* [**NeuroCircuit**](https://github.com/Coder-Harshit/NeuroCircuit): Node-based editor for building various pipelines (e.g. AI/ML, Vision), inspired by Blender Geometry Nodes and ComfyUI.
+* [**NeuroCircuit**](https://github.com/Coder-Harshit/NeuroCircuit): Node-based editor for building various pipelines (e.g. AI/ML, Vision), inspired by _Blender's Geometry Nodes_ and _ComfyUI's Interface_.
 * [**RefleXSys**](https://github.com/Coder-Harshit/RefleXSys): R&D project focusing on Sys. Arch. & Automation via AI.
