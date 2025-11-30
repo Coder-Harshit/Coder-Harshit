@@ -3,7 +3,7 @@
 - Linux Fanboy :)
 - Obsessed with low-level systems and reliability.
 - I **_break_** things on purpose, **fix** them, and document the lessons
-- Open to Work in domain including, but not limited to, **Systems Engineering**, **DevOps**, and **SRE**.
+- Open to Work in domains including, but not limited to, **Systems Engineering**, **DevOps**, and **SRE**.
 
 ### Works
 * [**NeuroCircuit**](https://github.com/Coder-Harshit/NeuroCircuit): Node-based editor for building various pipelines (e.g. AI/ML, Vision), inspired by _Blender's Geometry Nodes_ and _ComfyUI's Interface_.
